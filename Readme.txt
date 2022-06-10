@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+Author : Bernard Panashe
+Framework : Bootstrap stylesheets ,favicons 
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Date published :10 June 2022
